@@ -6,8 +6,8 @@
 <markdown-accessiblity-table data-catalyst>
   <div>
     <a href="https://github.com/DanielSouza2005">
-    <img loading="lazy" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DanielSouza2005&theme=dracula&utcOffset=-3"/>                 
-    <img loading="lazy" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielSouza2005&theme=dracula"/>        
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSouza2005&layout=compact&langs_count=8&theme=cobalt"/>
+      <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSouza2005&layout=compact&langs_count=8&theme=cobalt"/>            
+      <img loading="lazy" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielSouza2005&theme=dracula"/>            
+    </a>
   </div>
 </markdown-accessiblity-table>
