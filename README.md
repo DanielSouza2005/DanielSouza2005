@@ -23,11 +23,12 @@
     </table>
   </markdown-accessiblity-table>
   <div align="center" dir="auto">
-  <a href="https://skillicons.dev" rel="nofollow">
-    <img src="https://skillicons.dev/icons?i=vscode,javascript,css,html,react,nodejs,express,github,postman,vercel,postgres" style="max-width: 100%;">
-  </a>
+    <a href="https://skillicons.dev" rel="nofollow">
+      <img src="https://skillicons.dev/icons?i=vscode,javascript,css,html,react,nodejs,express,github,postman,vercel,postgres" style="max-width: 100%;">
+    </a>
     <br>
   </div>
+  <h2 dir="auto"></h2>
   <div align="center">
       <img src="https://github-profile-trophy.vercel.app/?username=DanielSouza2005&row=1&theme=dracula"/>
   </div>
