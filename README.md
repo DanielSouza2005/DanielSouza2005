@@ -23,6 +23,6 @@
     </table>
   </markdown-accessiblity-table>
   <div align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=DanielSouza2005&row=1)"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=DanielSouza2005&row=1&theme=dracula"/>
   </div>
 </article>
