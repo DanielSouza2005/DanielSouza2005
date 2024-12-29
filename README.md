@@ -10,7 +10,7 @@
          <tr>
            <th>
              <a href="https://github.com/DanielSouza2005">
-               <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSouza2005&layout=compact&langs_count=8&theme=cobalt"/>           
+               <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSouza2005&layout=compact&langs_count=8&theme=cobalt"/>         
              </a>
            </th>
            <th>
@@ -22,4 +22,7 @@
        </thead>
     </table>
   </markdown-accessiblity-table>
+  <div align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=DanielSouza2005&row=1)"/>
+  </div>
 </article>
