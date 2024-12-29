@@ -10,3 +10,6 @@
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielSouza2005&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </div>
 </markdown-accessiblity-table>
+
+
+[Snake animation](https://github.com/DanielSouza2005/DanielSouza2005/blob/output/github-contribution-grid-snake.svg)
