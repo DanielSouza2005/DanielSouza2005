@@ -1,9 +1,9 @@
-# 👋 Hello! Welcome to my Github profile :)
-
-- 🔭 Junior Software Developer @NW Software
-- 🌱 Currently learning JavaScript and FrontEnd frameworks
-
-<article>  
+<article>
+  <h1 class="heading-element" dir="auto">👋 Hello! Welcome to my Github profile :)</h1>
+  <ul dir="auto">
+    <li>👩‍💻 Junior Software Developer @<a href="https://nwsoftware.com.br/" rel="nofollow">NW Software</a></li>
+    <li>💡 Currently learning JavaScript and FrontEnd frameworks </li>
+  </ul>   
   <markdown-accessiblity-table data-catalyst>
     <table>
        <thead>
