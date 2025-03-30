@@ -24,7 +24,7 @@
   </markdown-accessiblity-table>
   <div align="center" dir="auto">
     <a href="https://skillicons.dev" rel="nofollow">
-      <img src="https://skillicons.dev/icons?i=vscode,html,css,javascript,typescript,react,vite,nodejs,express,github,postman,vercel,postgres" style="max-width: 100%;">
+      <img src="https://skillicons.dev/icons?i=vscode,html,css,javascript,typescript,react,vite,nodejs,java,spring,express,postman,vercel,postgres,github" style="max-width: 100%;">
     </a>
     <br>
   </div>
