@@ -28,8 +28,8 @@
     </a>
     <br>
   </div>
-  <h2 dir="auto"></h2>
+  <!--<h2 dir="auto"></h2>
   <div align="center">
       <img src="https://github-profile-trophy.vercel.app/?username=DanielSouza2005&row=1&theme=dracula"/>
-  </div>
+  </div> -->
 </article>
